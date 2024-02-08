@@ -1,0 +1,158 @@
+[
+    {
+        "Flight Number": "204 (1)",
+        "Prime Crew": {
+            "Commander": "Virgil I. Grissom",
+            "Command Module Pilot": "Edward H. White, II",
+            "Lunar Module Pilot": "Roger B. Chaffee"
+        },
+        "Backup Crew": [
+            "Walter M. Schirra, Jr.",
+            "Donn F. Eisele",
+            "Walter Cunningham"
+        ]
+    },
+    {
+        "Flight Number": "7",
+        "Prime Crew": {
+            "Commander": "Walter M. Schirra, Jr.",
+            "Command Module Pilot": "Donn F. Eisele",
+            "Lunar Module Pilot": "Walter Cunningham"
+        },
+        "Backup Crew": [
+            "Thomas P. Stafford",
+            "John W. Young",
+            "Eugene A. Cernan"
+        ]
+    },
+    {
+        "Flight Number": "8",
+        "Prime Crew": {
+            "Commander": "Frank Borman",
+            "Command Module Pilot": "James A. Lovell, Jr.",
+            "Lunar Module Pilot": "William A. Anders"
+        },
+        "Backup Crew": [
+            "Neil A. Armstrong",
+            "Edwin E. \"Buzz\" Aldrin, Jr.",
+            "Fred W. Haise, Jr."
+        ]
+    },
+    {
+        "Flight Number": "9",
+        "Prime Crew": {
+            "Commander": "James A. McDivitt",
+            "Command Module Pilot": "David R. Scott",
+            "Lunar Module Pilot": "Russell L. Schweickart"
+        },
+        "Backup Crew": [
+            "Charles \"Pete\" Conrad, Jr.",
+            "Richard F. Gordon, Jr.",
+            "Alan L. Bean"
+        ]
+    },
+    {
+        "Flight Number": "10",
+        "Prime Crew": {
+            "Commander": "Thomas P. Stafford",
+            "Command Module Pilot": "John W. Young",
+            "Lunar Module Pilot": "Eugene A. Cernan"
+        },
+        "Backup Crew": [
+            "L. Gordon Cooper, Jr.",
+            "Donn F. Eisele",
+            "Edgar D. Mitchell"
+        ]
+    },
+    {
+        "Flight Number": "11",
+        "Prime Crew": {
+            "Commander": "Neil A. Armstrong",
+            "Command Module Pilot": "Michael Collins",
+            "Lunar Module Pilot": "Edwin E. \"Buzz\" Aldrin, Jr."
+        },
+        "Backup Crew": [
+            "James A. Lovell, Jr.",
+            "William A. Anders",
+            "Fred W. Haise, Jr."
+        ]
+    },
+    {
+        "Flight Number": "12",
+        "Prime Crew": {
+            "Commander": "Charles \"Pete\" Conrad, Jr.",
+            "Command Module Pilot": "Richard F. Gordon, Jr.",
+            "Lunar Module Pilot": "Alan L. Bean"
+        },
+        "Backup Crew": [
+            "David R. Scott",
+            "Alfred M. Worden",
+            "James B. Irwin"
+        ]
+    },
+    {
+        "Flight Number": "13",
+        "Prime Crew": {
+            "Commander": "James A. Lovell, Jr.",
+            "Command Module Pilot": "John L. Swigert, Jr.",
+            "Lunar Module Pilot": "Fred W. Haise, Jr."
+        },
+        "Backup Crew": [
+            "John W. Young",
+            "(John L. Swigert, Jr.)",
+            "Charles M. Duke, Jr."
+        ]
+    },
+    {
+        "Flight Number": "14",
+        "Prime Crew": {
+            "Commander": "Alan B. Shepard, Jr.",
+            "Command Module Pilot": "Stuart A. Roosa",
+            "Lunar Module Pilot": "Edgar D. Mitchell"
+        },
+        "Backup Crew": [
+            "Eugene A. Cernan",
+            "Ronald B. Evans",
+            "Joseph H. Engle"
+        ]
+    },
+    {
+        "Flight Number": "15",
+        "Prime Crew": {
+            "Commander": "David R. Scott",
+            "Command Module Pilot": "Alfred M. Worden",
+            "Lunar Module Pilot": "James B. Irwin"
+        },
+        "Backup Crew": [
+            "Richard F. Gordon, Jr.",
+            "Vance D. Brand",
+            "Harrison H. \"Jack\" Schmitt"
+        ]
+    },
+    {
+        "Flight Number": "16",
+        "Prime Crew": {
+            "Commander": "John W. Young",
+            "Command Module Pilot": "Thomas K. Mattingly II",
+            "Lunar Module Pilot": "Charles M. Duke, Jr."
+        },
+        "Backup Crew": [
+            "Fred W. Haise, Jr.",
+            "Stuart A. Roosa",
+            "Edgar D. Mitchell"
+        ]
+    },
+    {
+        "Flight Number": "17",
+        "Prime Crew": {
+            "Commander": "Eugene A. Cernan",
+            "Command Module Pilot": "Ronald B. Evans",
+            "Lunar Module Pilot": "Harrison H. \"Jack\" Schmitt"
+        },
+        "Backup Crew": [
+            "John W. Young",
+            "Stuart A. Roosa",
+            "Charles M. Duke, Jr."
+        ]
+    }
+]
